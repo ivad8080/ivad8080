@@ -2,7 +2,7 @@
 
 ###
 
-<header align="center" style="margin-top: 2rem; font-size: 24px">👋 Hi, I'm Davi SAS, a FullStack Javascript Developer!</header>
+<p align="center" style="margin-top: 2rem; font-size: 24px">👋 Hi, I'm Davi SAS, a FullStack Javascript Developer!</p>
 
 ###
 
