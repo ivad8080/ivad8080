@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center" style="margin-top: 2rem; font-size: 24px">👋 Hi, I'm Davi SAS, a FullStack Javascript Developer!</p>
+<h1 align="center" style="margin-top: 2rem">👋 Hi, I'm Davi SAS, a FullStack Javascript Developer!</h1>
 
 ###
 
@@ -41,7 +41,7 @@
 ###
 
 <div align="center" style="margin-top: 2rem">
-  <p style="display: flex; gap: 2rem; justify-content: center;">
+  <p>
     <a href="https://discordapp.com/users/refuxo#5645" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="36"  alt="discord logo"  />
     </a>
