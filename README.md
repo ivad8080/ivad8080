@@ -3,6 +3,7 @@
 ###
 
 <h1 align="center" style="margin-top: 2rem">👋 Hi, I'm Davi SAS, a FullStack Javascript Developer!</h1>
+<p>Each project of my repository has a link to preview online</p>
 
 ###
 
