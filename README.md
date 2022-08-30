@@ -2,7 +2,8 @@
 
 ###
 
-<h1 align="center" style="margin-top: 2rem">👋 Hi, I'm Davi SAS, a FullStack Javascript Developer!</h1>
+<h1 align="center" style="margin-top: 2rem">Davi SAS</h1>
+<h2>JavaScript FullStack Developer</h2>
 <p align="center">Each project of my repository has a link to preview online</p>
 
 ###
