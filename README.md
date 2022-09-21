@@ -3,7 +3,7 @@
 ###
 
 <h1 align="center" style="margin-top: 2rem">Davi SAS</h1>
-<h2 align="center" style="margin-bottom: 2rem; border: 0;">FullStack JavaScript Developer</h2>
+<h2 align="center" style="margin-bottom: 2rem; border: 0;">Front-End Developer</h2>
 <p align="center">Each project of my repository has a link to preview online</p>
 
 ###
